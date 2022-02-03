@@ -1,0 +1,35 @@
+﻿  Application.cpp
+D:\GitRepository\Erosion2D\Erosion\Erosion\SFML\include\SFML\Window.hpp(32,10): fatal error C1083: Не удается открыть файл включение: SFML/System.hpp: No such file or directory,
+  DiamondSquare.cpp
+D:\GitRepository\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(41,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(62,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(67,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(72,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(77,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  HydraulicErosion.cpp
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(18,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(19,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(23,63): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(24,63): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(119,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(120,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(121,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(122,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(180,26): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\GitRepository\Erosion2D\Erosion\Erosion\HydraulicErosion.cpp(195,33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Tool.cpp
+  World.cpp
+D:\GitRepository\Erosion2D\Erosion\Erosion\World.h(28,11): warning C4305: инициализация: усечение из "double" в "float"
+D:\GitRepository\Erosion2D\Erosion\Erosion\World.h(30,17): warning C4305: инициализация: усечение из "double" в "float"
+D:\GitRepository\Erosion2D\Erosion\Erosion\World.h(31,23): warning C4305: инициализация: усечение из "double" в "float"
+D:\GitRepository\Erosion2D\Erosion\Erosion\World.h(32,15): warning C4305: инициализация: усечение из "double" в "float"
+D:\GitRepository\Erosion2D\Erosion\Erosion\World.h(33,17): warning C4305: инициализация: усечение из "double" в "float"
+D:\GitRepository\Erosion2D\Erosion\Erosion\SFML\include\SFML\Window.hpp(32,10): fatal error C1083: Не удается открыть файл включение: SFML/System.hpp: No such file or directory,

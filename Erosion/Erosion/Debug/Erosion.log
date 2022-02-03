@@ -1,0 +1,8 @@
+﻿  DiamondSquare.cpp
+F:\Projects\CPP\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\Projects\CPP\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(44,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Projects\CPP\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(45,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Projects\CPP\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(58,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Projects\CPP\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(59,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Projects\CPP\Erosion2D\Erosion\Erosion\DiamondSquare.cpp(68,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Erosion.vcxproj -> F:\Projects\CPP\Erosion2D\Erosion\Debug\Erosion.exe
